@@ -1,0 +1,32 @@
+37. Linear Gradient (59-61)
+<link href="css/style.css" rel="stylesheet"/>
+============================
+Gradient 2 types. a. linear-gradient b. radial-gradient
+background: linear-gradient(red,green,blue,yellow);
+
+background: linear-gradient(to top, red,green,blue,yellow);
+    background: linear-gradient(to bottom,red,green,blue,yellow);
+    background: linear-gradient(to right,red,green,blue,yellow);
+    background: linear-gradient(to left,red,green,blue,yellow);
+
+    use>>> -webkit- ,  -ms-, -moz-, -o- 
+    ===========================================================
+    .div2{
+    width: 800px;
+    height: 150px;
+    /* background: radial-gradient(red,green,blue,yellow); */
+    background: radial-gradient( red 10%,green 30%,blue 50%,yellow 10%);
+    /* background: radial-gradient(to bottom,red,green,blue,yellow);
+    background: radial-gradient(to right,red,green,blue,yellow);
+    background: radial-gradient(to left,red,green,blue,yellow); */
+
+}
+===============================================================
+61. Gradient Online Generator
+
+Google Search>>> Online Gradient Generator
+>>> ColorZilla.com 
+ 
+ Ultimate CSS Gradient Generator >>>Ok
+ copy the code and paste css/style.css class....ok
+

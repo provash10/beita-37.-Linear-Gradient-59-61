@@ -1,0 +1,21 @@
+.div1{
+    width: 800px;
+    height: 150px;
+    background: linear-gradient(red,green);
+    /* background: linear-gradient(to top, red,green,blue,yellow);
+    background: linear-gradient(to bottom,red,green,blue,yellow);
+    background: linear-gradient(to right,red,green,blue,yellow);
+    background: linear-gradient(to left,red,green,blue,yellow);
+*/
+}
+
+.div2{
+    width: 800px;
+    height: 150px;
+    /* background: radial-gradient(red,green,blue,yellow); */
+    background: radial-gradient( red 10%,green 30%,blue 50%,yellow 10%);
+    /* background: radial-gradient(to bottom,red,green,blue,yellow);
+    background: radial-gradient(to right,red,green,blue,yellow);
+    background: radial-gradient(to left,red,green,blue,yellow); */
+
+}
